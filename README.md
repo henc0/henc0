@@ -1,6 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently learning ... 
-- Shell;
+🔭 I’m currently learning ...
+- linux/unix;
+- bash;
 - C;
 - JavaSctipt;
 - Node.js;
