@@ -1,10 +1,9 @@
 ### Hi there 👋
 🔭 I’m currently learning ... 
+- Shell;
 - C;
 - JavaSctipt;
 - Node.js;
-- React.js;
-- React Native;
 <!--
 **henc0/henc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
