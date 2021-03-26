@@ -1,10 +1,10 @@
 ### Hi there 👋
 🔭 I’m currently learning ...
 - linux/unix;
-- bash;
 - C;
-- JavaSctipt;
+- JavaScript;
 - Node.js;
+- React
 <!--
 **henc0/henc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
